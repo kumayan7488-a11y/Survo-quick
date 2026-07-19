@@ -16,6 +16,9 @@
 local.properties
 .env
 debug.keystore
+.build-outputs/
+*.apk
+*.keystore.base64
 
 # Ensure Gradle wrapper is tracked by Git
 !gradle/
