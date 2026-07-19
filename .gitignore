@@ -16,3 +16,8 @@
 local.properties
 .env
 debug.keystore
+
+# Ensure Gradle wrapper is tracked by Git
+!gradle/wrapper/gradle-wrapper.jar
+!gradle-wrapper.jar
+
