@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666768101270",
+    "project_id": "microtask-47418",
+    "storage_bucket": "microtask-47418.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666768101270:android:4b49c836be44f9f3cf17b7",
+        "android_client_info": {
+          "package_name": "com.aistudio.survoquick.ryuewp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVVw4eb4pAzOCDKqDYutOeT_cpXWNHH6Q"
+        }
+      ],
+      "services": {
+        "appdetect_service": {
+          "get_endpoint_version": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666768101270:android:4b49c836be44f9f3cf17b7",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVVw4eb4pAzOCDKqDYutOeT_cpXWNHH6Q"
+        }
+      ],
+      "services": {
+        "appdetect_service": {
+          "get_endpoint_version": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
