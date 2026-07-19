@@ -1,0 +1,6 @@
+{
+  "name": "Survo Quick",
+  "description": "A comprehensive survey, task, and rewards application with admin panel, Gemini AI help section, custom coin exchange rates, and transaction/withdrawal history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
